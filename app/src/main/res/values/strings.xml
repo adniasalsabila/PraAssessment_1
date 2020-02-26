@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pra Assess1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LuasPpjg">%s</string>
+    <string name="KelilingPpjg">%s</string>
+    <string name="LuasSegitiga">%s</string>
+    <string name="KelilingSegitiga">%s</string>
+</resources>
